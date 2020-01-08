@@ -3,6 +3,8 @@ in reconstructing a color-magnitude diagram
 from noisy observations. Open 'Demo.ipynb' and run,
 modifying to your system.
 
+![](t1.png)
+
 Requirements:
 - https://github.com/rtqichen/torchdiffeq
 - https://github.com/jobovy/extreme-deconvolution
