@@ -1,6 +1,7 @@
 Code for comparing a normalizing flow to extreme-deconvolution
 in reconstructing a color-magnitude diagram
-from noisy observations.
+from noisy observations. Open 'Demo.ipynb' and run,
+modifying to your system.
 
 The normalizing flow code is from here: https://github.com/rtqichen/ffjord
 
